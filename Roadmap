@@ -1,0 +1,22 @@
+Day 1-2: Deploy a Web Server (Nginx/Apache)
+Install and configure Nginx or Apache on a Linux server.
+Set up a simple static website or a basic web application.
+Learn about virtual hosts, SSL/TLS, and reverse proxy setup.
+Day 3-4: Set Up SSH & Automate Backups
+Configure SSH key-based authentication for secure access.
+Disable password authentication and configure fail2ban for SSH brute force protection.
+Create a Bash script to automate backups (e.g., using rsync or tar).
+Schedule backups with cron jobs.
+Day 5-6: Secure a Linux System
+Configure UFW (Uncomplicated Firewall) or iptables.
+Install and configure Fail2Ban to prevent brute-force attacks.
+Harden SSH settings (change port, disable root login, etc.).
+Set up log monitoring for security auditing.
+Day 7-8: Create Bash Scripts for Automation
+Write scripts to automate system tasks (e.g., log rotation, user management).
+Use loops, functions, and conditionals in Bash scripting.
+Automate server updates and maintenance tasks.
+Day 9-10: Testing & Documentation
+Test all configurations and security measures.
+Create a simple documentation guide for each project.
+Deploy your work on a cloud platform (AWS, DigitalOcean, or Linode).
